@@ -1,0 +1,146 @@
+<html lang="en"></html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>E-commerce Landing page </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="styles
+	.css">
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet"> 
+	<script src="script.js"></script>
+</head>
+
+<body>
+	<header>
+		<nav id="nav fixed-top">
+			<div class="logo nav-common mt-4"><alt="brand-logo"></div>
+			<ul class="nav-common">
+				<li><a href="#">home</a></li>
+				<li><a href="#products">products</a></li>
+				<li><a href="#collections">collections</a></li>
+				<li><a href="#blog">blog</a></li>
+				<li><a href="#contact">contact</a></li>
+			</ul>
+			<div class="cart nav-icon nav-common"><img src="https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412544/E-commerce%20landing%20page/icons/shopping_cart_1x.png" alt="shopping-cart"></div>
+			<div class="menu nav-icon nav-common"><img src="https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412543/E-commerce%20landing%20page/icons/menu_1x.png" alt="hamburger-menu"></div>
+		</nav>
+		<div id="header-hero">
+			<div class="header-bg"> <img src="C:\shri\orinson intern\intern week 3\p1.jpeg" alt="header-image" /> </div>
+			<div class="header-content">
+				<p class="heading-1 ml-5 p-5">INDIA'S NO 1 BRAND</p>
+				<h1 class="ml-5 p-5">welcome to <span class="logo-style">Strida</span></h1>
+				<p class="description ml-5 p-5"> Strida, we're not just about shoes, we're about crafting experiences..</p>
+				<div class="button"><a href="index-1.html">
+					<p>shop now</p></a>
+				</div>
+			</div>
+		</div>
+	</header>
+	<section id="summer-collection">
+		<div class="container">
+			<div class="sc-content">
+				<h1>Winter collection</h1>
+				<p class="description">
+
+					Embrace the chill with Strida's Winter Collection – where warmth meets style. Designed for the bold, this collection combines premium insulation with cutting-edge materials, ensuring your comfort in the coldest conditions. From snow-covered streets to mountain trails, Strida’s winter footwear offers unmatched traction, protection, and a sleek aesthetic that turns heads.
+					
+					Stay ahead of the season with footwear that’s built to brave the elements while keeping you effortlessly stylish. This winter, conquer the cold with Strida – designed for adventure, perfected for winter.</a> </div>
+			<div class="sc-media">
+				<div class="sc-media-bg"> <img src="C:\shri\orinson intern\intern week 3\DALL·E 2024-09-18 20.23.03 - A mobile-sized image displaying four types of stylish shoes arranged vertically_ 1. Performance Runners_ lightweight, sleek running shoes with advance.webp" alt="sc-image" /> </div>
+			</div>
+		</div>
+	</section>
+	<section id="products">
+		<div class="container">
+			<div class="products-header">
+				<h2>Our Collections</h2>
+				<p><span>
+
+					Step into style with Strida's curated selection for every season and adventure.</span></p>
+			</div>
+			<div class="product product-1">
+				<figure> <a href="index-1.html"><img src="C:\shri\orinson intern\intern week 3\WhatsApp Image 2024-09-18 at 8.44.43 PM (1).jpeg" alt="product-image"></a>
+					<figcaption>Performance Runners</figcaption>
+					<figcaption>₹9,999</figcaption>
+				</figure>
+			</div>
+			<div class="product product-2">
+				<figure>  <a href="index-1.html"> <img src="C:\shri\orinson intern\intern week 3\WhatsApp Image 2024-09-18 at 8.44.43 PM.jpeg" alt="product-image"></a>
+					<figcaption>Urban Sneakers</figcaption>
+					<figcaption> ₹7,999</figcaption>
+				</figure>
+			</div>
+			<div class="product product-3">
+				<figure>  <a href="index-1.html"><img src="C:\shri\orinson intern\intern week 3\WhatsApp Image 2024-09-18 at 8.29.55 PM.jpeg" alt="product-image"></a>
+					<figcaption>Trail Blazers</figcaption>
+					<figcaption>₹10,999</figcaption>
+				</figure>
+			</div>
+			<div class="product product-4">
+				<figure> <a href="index-1.html"><img src="C:\shri\orinson intern\intern week 3\WhatsApp Image 2024-09-18 at 8.44.41 PM.jpeg" alt="product-image"></a>
+					<figcaption>Winter Boots</figcaption>
+					<figcaption> ₹12,499</figcaption>
+				</figure>
+			</div>
+		</div>
+	</section>
+	<section id="collections">
+		<div class="container">
+			<div class="c-1">
+				<div class="c-1-image-holder"> <img src="C:\shri\orinson intern\intern week 3\WhatsApp Image 2024-09-18 at 9.28.27 PM.jpeg" alt="image"> </div>
+			</div>
+			<div class="c-2">
+				<h2>featured collection</h2>
+				<hr />
+				<div class="c-2-image-holder"> <img class="left" src="C:\shri\orinson intern\intern week 3\WhatsApp Image 2024-09-18 at 9.28.27 PM (1).jpeg" alt=""><img class="right" src="C:\shri\orinson intern\intern week 3\WhatsApp Image 2024-09-18 at 9.28.27 PM (2).jpeg"
+					 alt=""></div>
+				<p class="button"> <a href="index-1.html">view all collections</p></a>
+			</div>
+		</div>
+	</section>
+	<section id="blog">
+		<div class="container">
+			<div class="blog-header">
+				<h2>latest from blog</h2>
+				<p>Find out what others are talking about – Strida is the talk of the town! </p>
+			</div>
+			<div class="blog-content">
+				<div class="blog-1">
+					<div class="blog-1-image-holder"> <img src="C:\shri\orinson intern\intern week 3\WhatsApp Image 2024-09-18 at 10.48.54 PM.jpeg" alt="image"> </div>
+					<div class="blog-1-content">
+						<h4>Lorem Ipsum</h4>
+						<h3>Why Strida's Running Shoes Outperform the Rest</h3>
+						<p class="description"> "When it comes to running, Strida's Performance Runners lead the pack. Designed with cutting-edge cushioning technology and lightweight materials, our shoes provide unmatched comfort and support, keeping you ahead of the competition with every step. Discover why athletes are making the switch to Strida."</p>
+						<p class="button">view post</p>
+					</div>
+				</div>
+				<div class="blog-2">
+					<div class="blog-2-image-holder"> <img src="C:\shri\orinson intern\intern week 3\WhatsApp Image 2024-09-18 at 10.48.52 PM.jpeg" alt="image"> </div>
+					<div class="blog-2-content">
+						<h4>Lorem Ipsum</h4>
+						<h3>Conquer the Cold: Strida’s Winter Footwear You Can’t Miss</h3>
+						<p class="description">"Strida's Winter Collection combines bold style with unbeatable functionality. Crafted for extreme conditions, our winter boots offer superior insulation and all-weather durability. Whether on the streets or the slopes, Strida keeps you warm without compromising on style. Find out why Strida is your perfect winter companion!"</p>
+						<p class="button">view post</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="contact">
+		<div class="container">
+			<h4>contact us</h4>
+			<p></p>
+			<p>+ (42) 442 4521</p>
+			<p>strida@gmail.com</p>
+			<p class="email">email-us <span><img src="https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412541/E-commerce%20landing%20page/icons/get_in_touch_1x.png" alt="email-image"></span></p>
+		</div>
+	</section>
+	<footer>
+		<p class="copy-right"><img src="https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412543/E-commerce%20landing%20page/icons/copy-right-img_1x.png" alt="copy right image" /> 2024 all right recived </p>
+		<p>privacy policy</p>
+		<p>license</p>
+	</footer>
+	<div class="back-to-top"><a href="#nav"> <img title="Back to Top." src="https://res.cloudinary.com/de8cuyd0n/image/upload/v1520412541/E-commerce%20landing%20page/icons/back_-_top_1x.png" alt="back to top"></a> </div>
+</body>
+
+</html>
